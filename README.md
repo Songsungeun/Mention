@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # mention README
 
 This is the README for your extension "mention". After writing up a brief description, we recommend including the following sections.
@@ -63,3 +64,7 @@ Added features X, Y, and Z.
 * [Markdown Syntax Reference](https://help.github.com/articles/markdown-basics/)
 
 **Enjoy!**
+=======
+# Mention
+vscode extension for Tags &amp; Mention
+>>>>>>> 0eeca8e3b26150f09e192a93d62998bb8deba0c7
